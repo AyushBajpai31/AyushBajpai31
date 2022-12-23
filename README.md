@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AyushBajpai31
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Skills For Data Science
